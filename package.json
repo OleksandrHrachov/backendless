@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://oleksandrhrachov.github.io/backendless/",
   "scripts": {
     "dev": "webpack serve --config webpack.config.js --open --mode development",
     "build": "webpack --config webpack.config.js --mode production",
