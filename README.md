@@ -1,1 +1,1 @@
-https://oleksandrhrachov.github.io/backendless/dist/
+https://oleksandrhrachov.github.io/backendless/
